@@ -1,0 +1,1914 @@
+[
+  {
+    "station_name": "서울",
+    "호선": 1,
+    "위도": 37.55315,
+    "경도": 126.972533,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1648307243010558
+  },
+  {
+    "station_name": "시청",
+    "호선": 1,
+    "위도": 37.56359,
+    "경도": 126.975407,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2902491499628091
+  },
+  {
+    "station_name": "종각",
+    "호선": 1,
+    "위도": 37.570203,
+    "경도": 126.983116,
+    "risk_level": "Very High",
+    "station_risk_score": 0.4761198466710368
+  },
+  {
+    "station_name": "종로3가",
+    "호선": 1,
+    "위도": 37.570429,
+    "경도": 126.992095,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2258729107577258
+  },
+  {
+    "station_name": "종로5가",
+    "호선": 1,
+    "위도": 37.570971,
+    "경도": 127.0019,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2903440693741883
+  },
+  {
+    "station_name": "동대문",
+    "호선": 1,
+    "위도": 37.57179,
+    "경도": 127.011383,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2752769692212665
+  },
+  {
+    "station_name": "동묘앞",
+    "호선": 1,
+    "위도": 37.573265,
+    "경도": 127.016459,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1698386873622236
+  },
+  {
+    "station_name": "신설동",
+    "호선": 1,
+    "위도": 37.576117,
+    "경도": 127.02471,
+    "risk_level": "Low",
+    "station_risk_score": 0.1490029277609275
+  },
+  {
+    "station_name": "제기동",
+    "호선": 1,
+    "위도": 37.578116,
+    "경도": 127.034902,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2933384843716998
+  },
+  {
+    "station_name": "청량리",
+    "호선": 1,
+    "위도": 37.580148,
+    "경도": 127.045063,
+    "risk_level": "Low",
+    "station_risk_score": 0.1223899688936799
+  },
+  {
+    "station_name": "을지로입구",
+    "호선": 2,
+    "위도": 37.565998,
+    "경도": 126.982569,
+    "risk_level": "Very High",
+    "station_risk_score": 0.5049334511805512
+  },
+  {
+    "station_name": "을지로3가",
+    "호선": 2,
+    "위도": 37.566292,
+    "경도": 126.991773,
+    "risk_level": "High",
+    "station_risk_score": 0.3615383774795458
+  },
+  {
+    "station_name": "을지로4가",
+    "호선": 2,
+    "위도": 37.566611,
+    "경도": 126.998122,
+    "risk_level": "Low",
+    "station_risk_score": 0.1286171219053142
+  },
+  {
+    "station_name": "동대문역사문화공원",
+    "호선": 2,
+    "위도": 37.565597,
+    "경도": 127.009113,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2109665858274511
+  },
+  {
+    "station_name": "신당",
+    "호선": 2,
+    "위도": 37.565681,
+    "경도": 127.019488,
+    "risk_level": "Medium",
+    "station_risk_score": 0.257328468944131
+  },
+  {
+    "station_name": "상왕십리",
+    "호선": 2,
+    "위도": 37.564504,
+    "경도": 127.028872,
+    "risk_level": "Low",
+    "station_risk_score": 0.136433597280245
+  },
+  {
+    "station_name": "왕십리",
+    "호선": 2,
+    "위도": 37.561159,
+    "경도": 127.035505,
+    "risk_level": "High",
+    "station_risk_score": 0.3923500431010979
+  },
+  {
+    "station_name": "한양대",
+    "호선": 2,
+    "위도": 37.55658,
+    "경도": 127.043504,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2192403573476788
+  },
+  {
+    "station_name": "뚝섬",
+    "호선": 2,
+    "위도": 37.54718,
+    "경도": 127.047413,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2147247777155963
+  },
+  {
+    "station_name": "성수",
+    "호선": 2,
+    "위도": 37.544628,
+    "경도": 127.055983,
+    "risk_level": "High",
+    "station_risk_score": 0.324016612379428
+  },
+  {
+    "station_name": "건대입구",
+    "호선": 2,
+    "위도": 37.540408,
+    "경도": 127.069231,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1940612928028078
+  },
+  {
+    "station_name": "구의",
+    "호선": 2,
+    "위도": 37.536857,
+    "경도": 127.085024,
+    "risk_level": "Low",
+    "station_risk_score": 0.1095092553756171
+  },
+  {
+    "station_name": "강변",
+    "호선": 2,
+    "위도": 37.535161,
+    "경도": 127.094684,
+    "risk_level": "Low",
+    "station_risk_score": 0.0610851728410572
+  },
+  {
+    "station_name": "잠실나루",
+    "호선": 2,
+    "위도": 37.520688,
+    "경도": 127.103836,
+    "risk_level": "Low",
+    "station_risk_score": 0.0917048095617803
+  },
+  {
+    "station_name": "잠실",
+    "호선": 2,
+    "위도": 37.513305,
+    "경도": 127.100129,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2543256961143881
+  },
+  {
+    "station_name": "잠실새내",
+    "호선": 2,
+    "위도": 37.520731,
+    "경도": 127.103738,
+    "risk_level": "Low",
+    "station_risk_score": 0.074625054440646
+  },
+  {
+    "station_name": "종합운동장",
+    "호선": 2,
+    "위도": 37.511008,
+    "경도": 127.073641,
+    "risk_level": "Low",
+    "station_risk_score": 0.0768562109320098
+  },
+  {
+    "station_name": "삼성",
+    "호선": 2,
+    "위도": 37.508827,
+    "경도": 127.063203,
+    "risk_level": "High",
+    "station_risk_score": 0.448354479607161
+  },
+  {
+    "station_name": "선릉",
+    "호선": 2,
+    "위도": 37.504257,
+    "경도": 127.048174,
+    "risk_level": "Low",
+    "station_risk_score": 0.1016677411514614
+  },
+  {
+    "station_name": "역삼",
+    "호선": 2,
+    "위도": 37.500658,
+    "경도": 127.03643,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2300986488622441
+  },
+  {
+    "station_name": "강남",
+    "호선": 2,
+    "위도": 37.497958,
+    "경도": 127.027539,
+    "risk_level": "High",
+    "station_risk_score": 0.4539447057933976
+  },
+  {
+    "station_name": "교대",
+    "호선": 2,
+    "위도": 37.493957,
+    "경도": 127.014631,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2434951556162098
+  },
+  {
+    "station_name": "서초",
+    "호선": 2,
+    "위도": 37.49191,
+    "경도": 127.007945,
+    "risk_level": "Low",
+    "station_risk_score": 0.132224459431012
+  },
+  {
+    "station_name": "방배",
+    "호선": 2,
+    "위도": 37.481469,
+    "경도": 126.997627,
+    "risk_level": "Low",
+    "station_risk_score": 0.0671640715408992
+  },
+  {
+    "station_name": "사당",
+    "호선": 2,
+    "위도": 37.476536,
+    "경도": 126.981631,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2074955951261738
+  },
+  {
+    "station_name": "낙성대",
+    "호선": 2,
+    "위도": 37.47693,
+    "경도": 126.963783,
+    "risk_level": "Low",
+    "station_risk_score": 0.0333333333333333
+  },
+  {
+    "station_name": "서울대입구",
+    "호선": 2,
+    "위도": 37.481233,
+    "경도": 126.952745,
+    "risk_level": "Medium",
+    "station_risk_score": 0.314684540844014
+  },
+  {
+    "station_name": "봉천",
+    "호선": 2,
+    "위도": 37.482416,
+    "경도": 126.941896,
+    "risk_level": "Low",
+    "station_risk_score": 0.0874373011664679
+  },
+  {
+    "station_name": "신림",
+    "호선": 2,
+    "위도": 37.484216,
+    "경도": 126.929573,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1896159881099837
+  },
+  {
+    "station_name": "신대방",
+    "호선": 2,
+    "위도": 37.487534,
+    "경도": 126.913279,
+    "risk_level": "Low",
+    "station_risk_score": 0.0333333333333333
+  },
+  {
+    "station_name": "구로디지털단지",
+    "호선": 2,
+    "위도": 37.485005,
+    "경도": 126.902626,
+    "risk_level": "Medium",
+    "station_risk_score": 0.216118252739151
+  },
+  {
+    "station_name": "대림",
+    "호선": 2,
+    "위도": 37.492426,
+    "경도": 126.895293,
+    "risk_level": "Low",
+    "station_risk_score": 0.103030303030303
+  },
+  {
+    "station_name": "신도림",
+    "호선": 2,
+    "위도": 37.508815,
+    "경도": 126.891222,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2219109495612361
+  },
+  {
+    "station_name": "문래",
+    "호선": 2,
+    "위도": 37.517993,
+    "경도": 126.894766,
+    "risk_level": "Low",
+    "station_risk_score": 0.0869424420086781
+  },
+  {
+    "station_name": "영등포구청",
+    "호선": 2,
+    "위도": 37.525766,
+    "경도": 126.896627,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1907878338364947
+  },
+  {
+    "station_name": "당산",
+    "호선": 2,
+    "위도": 37.533877,
+    "경도": 126.902011,
+    "risk_level": "Low",
+    "station_risk_score": 0.10197719035019
+  },
+  {
+    "station_name": "합정",
+    "호선": 2,
+    "위도": 37.550025,
+    "경도": 126.914557,
+    "risk_level": "Low",
+    "station_risk_score": 0.1461912142477499
+  },
+  {
+    "station_name": "홍대입구",
+    "호선": 2,
+    "위도": 37.556748,
+    "경도": 126.923643,
+    "risk_level": "High",
+    "station_risk_score": 0.3390744567082666
+  },
+  {
+    "station_name": "신촌",
+    "호선": 2,
+    "위도": 37.555153,
+    "경도": 126.93689,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2028974717668568
+  },
+  {
+    "station_name": "이대",
+    "호선": 2,
+    "위도": 37.556734,
+    "경도": 126.945897,
+    "risk_level": "Low",
+    "station_risk_score": 0.1154516356801557
+  },
+  {
+    "station_name": "아현",
+    "호선": 2,
+    "위도": 37.557407,
+    "경도": 126.956079,
+    "risk_level": "Low",
+    "station_risk_score": 0.1452399363781553
+  },
+  {
+    "station_name": "충정로",
+    "호선": 2,
+    "위도": 37.559742,
+    "경도": 126.964455,
+    "risk_level": "Low",
+    "station_risk_score": 0.1506705468635701
+  },
+  {
+    "station_name": "용두",
+    "호선": 2,
+    "위도": 37.574012,
+    "경도": 127.03811,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1975560910490209
+  },
+  {
+    "station_name": "신답",
+    "호선": 2,
+    "위도": 37.56147,
+    "경도": 127.056348,
+    "risk_level": "Very High",
+    "station_risk_score": 0.5170509793680189
+  },
+  {
+    "station_name": "용답",
+    "호선": 2,
+    "위도": 37.566412,
+    "경도": 126.977863,
+    "risk_level": "High",
+    "station_risk_score": 0.3702191696289317
+  },
+  {
+    "station_name": "도림천",
+    "호선": 2,
+    "위도": 37.514759,
+    "경도": 126.882586,
+    "risk_level": "Low",
+    "station_risk_score": 0.0489491882178057
+  },
+  {
+    "station_name": "양천구청",
+    "호선": 2,
+    "위도": 37.512194,
+    "경도": 126.865193,
+    "risk_level": "Medium",
+    "station_risk_score": 0.3164033102805006
+  },
+  {
+    "station_name": "신정네거리",
+    "호선": 2,
+    "위도": 37.520218,
+    "경도": 126.852849,
+    "risk_level": "Low",
+    "station_risk_score": 0.0508849666708565
+  },
+  {
+    "station_name": "까치산",
+    "호선": 2,
+    "위도": 37.53181,
+    "경도": 126.846706,
+    "risk_level": "Low",
+    "station_risk_score": 0.103030303030303
+  },
+  {
+    "station_name": "지축",
+    "호선": 3,
+    "위도": 37.648281,
+    "경도": 126.912551,
+    "risk_level": "Low",
+    "station_risk_score": 0.1282226645863458
+  },
+  {
+    "station_name": "구파발",
+    "호선": 3,
+    "위도": 37.636612,
+    "경도": 126.918827,
+    "risk_level": "Medium",
+    "station_risk_score": 0.203393644888353
+  },
+  {
+    "station_name": "연신내",
+    "호선": 3,
+    "위도": 37.618855,
+    "경도": 126.920859,
+    "risk_level": "Low",
+    "station_risk_score": 0.1
+  },
+  {
+    "station_name": "불광",
+    "호선": 3,
+    "위도": 37.610554,
+    "경도": 126.929843,
+    "risk_level": "Low",
+    "station_risk_score": 0.1415323281325122
+  },
+  {
+    "station_name": "녹번",
+    "호선": 3,
+    "위도": 37.600882,
+    "경도": 126.935758,
+    "risk_level": "Low",
+    "station_risk_score": 0.0666666666666666
+  },
+  {
+    "station_name": "홍제",
+    "호선": 3,
+    "위도": 37.588851,
+    "경도": 126.944092,
+    "risk_level": "Low",
+    "station_risk_score": 0.0718404778800006
+  },
+  {
+    "station_name": "무악재",
+    "호선": 3,
+    "위도": 37.582658,
+    "경도": 126.950131,
+    "risk_level": "Low",
+    "station_risk_score": 0.1242424242424242
+  },
+  {
+    "station_name": "독립문",
+    "호선": 3,
+    "위도": 37.574534,
+    "경도": 126.957902,
+    "risk_level": "Low",
+    "station_risk_score": 0.095819280684242
+  },
+  {
+    "station_name": "경복궁",
+    "호선": 3,
+    "위도": 37.575844,
+    "경도": 126.973576,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1754066394798453
+  },
+  {
+    "station_name": "안국",
+    "호선": 3,
+    "위도": 37.576562,
+    "경도": 126.98547,
+    "risk_level": "Low",
+    "station_risk_score": 0.1433255849348084
+  },
+  {
+    "station_name": "충무로",
+    "호선": 3,
+    "위도": 37.561302,
+    "경도": 126.995473,
+    "risk_level": "High",
+    "station_risk_score": 0.3313762162558908
+  },
+  {
+    "station_name": "동대입구",
+    "호선": 3,
+    "위도": 37.55816,
+    "경도": 127.005273,
+    "risk_level": "Low",
+    "station_risk_score": 0.1019583262037187
+  },
+  {
+    "station_name": "약수",
+    "호선": 3,
+    "위도": 37.554674,
+    "경도": 127.010628,
+    "risk_level": "Low",
+    "station_risk_score": 0.1008899529985541
+  },
+  {
+    "station_name": "금호",
+    "호선": 3,
+    "위도": 37.548269,
+    "경도": 127.015785,
+    "risk_level": "Low",
+    "station_risk_score": 0.0666666666666666
+  },
+  {
+    "station_name": "옥수",
+    "호선": 3,
+    "위도": 37.541653,
+    "경도": 127.017303,
+    "risk_level": "Low",
+    "station_risk_score": 0.0873330890534704
+  },
+  {
+    "station_name": "압구정",
+    "호선": 3,
+    "위도": 37.526169,
+    "경도": 127.028502,
+    "risk_level": "Low",
+    "station_risk_score": 0.0952581896972694
+  },
+  {
+    "station_name": "신사",
+    "호선": 3,
+    "위도": 37.516438,
+    "경도": 127.020247,
+    "risk_level": "Low",
+    "station_risk_score": 0.0691364553523754
+  },
+  {
+    "station_name": "잠원",
+    "호선": 3,
+    "위도": 37.512989,
+    "경도": 127.011613,
+    "risk_level": "Low",
+    "station_risk_score": 0.0708064418785495
+  },
+  {
+    "station_name": "고속터미널",
+    "호선": 3,
+    "위도": 37.504953,
+    "경도": 127.004916,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1930058554168117
+  },
+  {
+    "station_name": "남부터미널",
+    "호선": 3,
+    "위도": 37.48494,
+    "경도": 127.016289,
+    "risk_level": "Low",
+    "station_risk_score": 0.1580234729720901
+  },
+  {
+    "station_name": "양재",
+    "호선": 3,
+    "위도": 37.48466,
+    "경도": 127.03513,
+    "risk_level": "Low",
+    "station_risk_score": 0.1184490284342339
+  },
+  {
+    "station_name": "매봉",
+    "호선": 3,
+    "위도": 37.487114,
+    "경도": 127.046907,
+    "risk_level": "Low",
+    "station_risk_score": 0.1310652703553927
+  },
+  {
+    "station_name": "도곡",
+    "호선": 3,
+    "위도": 37.491129,
+    "경도": 127.055694,
+    "risk_level": "Low",
+    "station_risk_score": 0.0690248806446557
+  },
+  {
+    "station_name": "대치",
+    "호선": 3,
+    "위도": 37.494601,
+    "경도": 127.063449,
+    "risk_level": "Low",
+    "station_risk_score": 0.0875299902247149
+  },
+  {
+    "station_name": "학여울",
+    "호선": 3,
+    "위도": 37.496757,
+    "경도": 127.070541,
+    "risk_level": "Low",
+    "station_risk_score": 0.0696969696969697
+  },
+  {
+    "station_name": "대청",
+    "호선": 3,
+    "위도": 37.493607,
+    "경도": 127.079526,
+    "risk_level": "Low",
+    "station_risk_score": 0.1242424242424242
+  },
+  {
+    "station_name": "일원",
+    "호선": 3,
+    "위도": 37.48389,
+    "경도": 127.08416,
+    "risk_level": "Low",
+    "station_risk_score": 0.0505519556201416
+  },
+  {
+    "station_name": "수서",
+    "호선": 3,
+    "위도": 37.487507,
+    "경도": 127.101324,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1697979255208142
+  },
+  {
+    "station_name": "가락시장",
+    "호선": 3,
+    "위도": 37.492368,
+    "경도": 127.118101,
+    "risk_level": "Low",
+    "station_risk_score": 0.1217438350912512
+  },
+  {
+    "station_name": "경찰병원",
+    "호선": 3,
+    "위도": 37.495754,
+    "경도": 127.124198,
+    "risk_level": "Low",
+    "station_risk_score": 0.0639947938037012
+  },
+  {
+    "station_name": "오금",
+    "호선": 3,
+    "위도": 37.502288,
+    "경도": 127.128344,
+    "risk_level": "Low",
+    "station_risk_score": 0.0974807095176731
+  },
+  {
+    "station_name": "당고개",
+    "호선": 4,
+    "위도": 37.66956,
+    "경도": 127.078404,
+    "risk_level": "Low",
+    "station_risk_score": 0.0533318389241686
+  },
+  {
+    "station_name": "상계",
+    "호선": 4,
+    "위도": 37.660576,
+    "경도": 127.073199,
+    "risk_level": "Low",
+    "station_risk_score": 0.0620426564349115
+  },
+  {
+    "station_name": "노원",
+    "호선": 4,
+    "위도": 37.656274,
+    "경도": 127.063183,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2807550882065271
+  },
+  {
+    "station_name": "창동",
+    "호선": 4,
+    "위도": 37.652993,
+    "경도": 127.046746,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1824515992391593
+  },
+  {
+    "station_name": "쌍문",
+    "호선": 4,
+    "위도": 37.648274,
+    "경도": 127.034381,
+    "risk_level": "Low",
+    "station_risk_score": 0.0594738851833704
+  },
+  {
+    "station_name": "수유",
+    "호선": 4,
+    "위도": 37.637127,
+    "경도": 127.024731,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1707183699251385
+  },
+  {
+    "station_name": "미아",
+    "호선": 4,
+    "위도": 37.626435,
+    "경도": 127.026151,
+    "risk_level": "Low",
+    "station_risk_score": 0.0792927552360818
+  },
+  {
+    "station_name": "미아사거리",
+    "호선": 4,
+    "위도": 37.613276,
+    "경도": 127.030083,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1812557982665844
+  },
+  {
+    "station_name": "길음",
+    "호선": 4,
+    "위도": 37.604087,
+    "경도": 127.025353,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1807862527363809
+  },
+  {
+    "station_name": "성신여대입구",
+    "호선": 4,
+    "위도": 37.592782,
+    "경도": 127.017338,
+    "risk_level": "Low",
+    "station_risk_score": 0.1431557133967582
+  },
+  {
+    "station_name": "한성대입구",
+    "호선": 4,
+    "위도": 37.58838,
+    "경도": 127.006751,
+    "risk_level": "Low",
+    "station_risk_score": 0.0666666666666666
+  },
+  {
+    "station_name": "혜화",
+    "호선": 4,
+    "위도": 37.582116,
+    "경도": 127.001759,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2292311179845139
+  },
+  {
+    "station_name": "명동",
+    "호선": 4,
+    "위도": 37.561055,
+    "경도": 126.988271,
+    "risk_level": "Very High",
+    "station_risk_score": 0.6334776895913689
+  },
+  {
+    "station_name": "회현",
+    "호선": 4,
+    "위도": 37.559698,
+    "경도": 126.979565,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2424721208715806
+  },
+  {
+    "station_name": "숙대입구",
+    "호선": 4,
+    "위도": 37.545124,
+    "경도": 126.971952,
+    "risk_level": "Low",
+    "station_risk_score": 0.0859347176482018
+  },
+  {
+    "station_name": "삼각지",
+    "호선": 4,
+    "위도": 37.535057,
+    "경도": 126.973354,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1644771194716425
+  },
+  {
+    "station_name": "신용산",
+    "호선": 4,
+    "위도": 37.52919,
+    "경도": 126.96858,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1849064110020108
+  },
+  {
+    "station_name": "이촌",
+    "호선": 4,
+    "위도": 37.522525,
+    "경도": 126.97335,
+    "risk_level": "Low",
+    "station_risk_score": 0.1204329690791218
+  },
+  {
+    "station_name": "동작",
+    "호선": 4,
+    "위도": 37.503567,
+    "경도": 126.980171,
+    "risk_level": "Low",
+    "station_risk_score": 0.0848484848484848
+  },
+  {
+    "station_name": "이수",
+    "호선": 4,
+    "위도": 37.487521,
+    "경도": 126.982309,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1758836073577996
+  },
+  {
+    "station_name": "남태령",
+    "호선": 4,
+    "위도": 37.464339,
+    "경도": 126.989081,
+    "risk_level": "Low",
+    "station_risk_score": 0.0901419318410647
+  },
+  {
+    "station_name": "방화",
+    "호선": 5,
+    "위도": 37.577669,
+    "경도": 126.812822,
+    "risk_level": "Low",
+    "station_risk_score": 0.0333333333333333
+  },
+  {
+    "station_name": "개화산",
+    "호선": 5,
+    "위도": 37.572458,
+    "경도": 126.806838,
+    "risk_level": "Low",
+    "station_risk_score": 0.0178710105790981
+  },
+  {
+    "station_name": "김포공항",
+    "호선": 5,
+    "위도": 37.56217,
+    "경도": 126.801273,
+    "risk_level": "Low",
+    "station_risk_score": 0.0333333333333333
+  },
+  {
+    "station_name": "송정",
+    "호선": 5,
+    "위도": 37.561411,
+    "경도": 126.812052,
+    "risk_level": "Low",
+    "station_risk_score": 0.0363636363636363
+  },
+  {
+    "station_name": "마곡",
+    "호선": 5,
+    "위도": 37.562182,
+    "경도": 126.82693,
+    "risk_level": "Low",
+    "station_risk_score": 0.088530052131826
+  },
+  {
+    "station_name": "발산",
+    "호선": 5,
+    "위도": 37.562182,
+    "경도": 126.82693,
+    "risk_level": "Low",
+    "station_risk_score": 0.088530052131826
+  },
+  {
+    "station_name": "우장산",
+    "호선": 5,
+    "위도": 37.548864,
+    "경도": 126.83633,
+    "risk_level": "Low",
+    "station_risk_score": 0.0247453207480352
+  },
+  {
+    "station_name": "화곡",
+    "호선": 5,
+    "위도": 37.541585,
+    "경도": 126.840436,
+    "risk_level": "Low",
+    "station_risk_score": 0.138942107835559
+  },
+  {
+    "station_name": "신정",
+    "호선": 5,
+    "위도": 37.525001,
+    "경도": 126.856176,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "목동",
+    "호선": 5,
+    "위도": 37.526088,
+    "경도": 126.864296,
+    "risk_level": "Low",
+    "station_risk_score": 0.041909882141312
+  },
+  {
+    "station_name": "오목교",
+    "호선": 5,
+    "위도": 37.524557,
+    "경도": 126.875049,
+    "risk_level": "High",
+    "station_risk_score": 0.4559585492227979
+  },
+  {
+    "station_name": "양평",
+    "호선": 5,
+    "위도": 37.525614,
+    "경도": 126.886177,
+    "risk_level": "Low",
+    "station_risk_score": 0.1308482834971809
+  },
+  {
+    "station_name": "영등포시장",
+    "호선": 5,
+    "위도": 37.52276,
+    "경도": 126.905143,
+    "risk_level": "Low",
+    "station_risk_score": 0.0381635670364094
+  },
+  {
+    "station_name": "신길",
+    "호선": 5,
+    "위도": 37.51763,
+    "경도": 126.914886,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1753417812447533
+  },
+  {
+    "station_name": "여의도",
+    "호선": 5,
+    "위도": 37.521578,
+    "경도": 126.924318,
+    "risk_level": "Low",
+    "station_risk_score": 0.1579642457971031
+  },
+  {
+    "station_name": "여의나루",
+    "호선": 5,
+    "위도": 37.527145,
+    "경도": 126.932807,
+    "risk_level": "Low",
+    "station_risk_score": 0.0569010457115133
+  },
+  {
+    "station_name": "마포",
+    "호선": 5,
+    "위도": 37.539718,
+    "경도": 126.946043,
+    "risk_level": "Low",
+    "station_risk_score": 0.0953502045313794
+  },
+  {
+    "station_name": "공덕",
+    "호선": 5,
+    "위도": 37.544005,
+    "경도": 126.951058,
+    "risk_level": "Medium",
+    "station_risk_score": 0.3056939327315404
+  },
+  {
+    "station_name": "애오개",
+    "호선": 5,
+    "위도": 37.553592,
+    "경도": 126.956733,
+    "risk_level": "Low",
+    "station_risk_score": 0.1447708721714046
+  },
+  {
+    "station_name": "서대문",
+    "호선": 5,
+    "위도": 37.565812,
+    "경도": 126.966639,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2265549847719899
+  },
+  {
+    "station_name": "광화문",
+    "호선": 5,
+    "위도": 37.570545,
+    "경도": 126.976568,
+    "risk_level": "High",
+    "station_risk_score": 0.4593675574177029
+  },
+  {
+    "station_name": "청구",
+    "호선": 5,
+    "위도": 37.560237,
+    "경도": 127.01379,
+    "risk_level": "Low",
+    "station_risk_score": 0.0666666666666666
+  },
+  {
+    "station_name": "신금호",
+    "호선": 5,
+    "위도": 37.554504,
+    "경도": 127.020403,
+    "risk_level": "Low",
+    "station_risk_score": 0.0368764496063533
+  },
+  {
+    "station_name": "행당",
+    "호선": 5,
+    "위도": 37.557297,
+    "경도": 127.029482,
+    "risk_level": "Low",
+    "station_risk_score": 0.0336374569141899
+  },
+  {
+    "station_name": "마장",
+    "호선": 5,
+    "위도": 37.566066,
+    "경도": 127.042921,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "답십리",
+    "호선": 5,
+    "위도": 37.566833,
+    "경도": 127.05266,
+    "risk_level": "Low",
+    "station_risk_score": 0.003456298522797
+  },
+  {
+    "station_name": "장한평",
+    "호선": 5,
+    "위도": 37.561438,
+    "경도": 127.064601,
+    "risk_level": "Low",
+    "station_risk_score": 0.1389340145919178
+  },
+  {
+    "station_name": "군자",
+    "호선": 5,
+    "위도": 37.557102,
+    "경도": 127.079559,
+    "risk_level": "Low",
+    "station_risk_score": 0.0666666666666666
+  },
+  {
+    "station_name": "아차산",
+    "호선": 5,
+    "위도": 37.552005,
+    "경도": 127.089609,
+    "risk_level": "Low",
+    "station_risk_score": 0.0363636363636363
+  },
+  {
+    "station_name": "광나루",
+    "호선": 5,
+    "위도": 37.545301,
+    "경도": 127.103478,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "천호",
+    "호선": 5,
+    "위도": 37.538566,
+    "경도": 127.123539,
+    "risk_level": "Low",
+    "station_risk_score": 0.130912922994845
+  },
+  {
+    "station_name": "강동",
+    "호선": 5,
+    "위도": 37.53581,
+    "경도": 127.13249,
+    "risk_level": "Low",
+    "station_risk_score": 0.058742218421945
+  },
+  {
+    "station_name": "길동",
+    "호선": 5,
+    "위도": 37.538022,
+    "경도": 127.140085,
+    "risk_level": "Low",
+    "station_risk_score": 0.0055163035635042
+  },
+  {
+    "station_name": "굽은다리",
+    "호선": 5,
+    "위도": 37.545442,
+    "경도": 127.142844,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "명일",
+    "호선": 5,
+    "위도": 37.551317,
+    "경도": 127.144002,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "고덕",
+    "호선": 5,
+    "위도": 37.555002,
+    "경도": 127.154214,
+    "risk_level": "Low",
+    "station_risk_score": 0.0252865428484383
+  },
+  {
+    "station_name": "상일동",
+    "호선": 5,
+    "위도": 37.556714,
+    "경도": 127.166381,
+    "risk_level": "Low",
+    "station_risk_score": 0.0202349030795815
+  },
+  {
+    "station_name": "둔촌동",
+    "호선": 5,
+    "위도": 37.527787,
+    "경도": 127.136219,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "올림픽공원",
+    "호선": 5,
+    "위도": 37.516217,
+    "경도": 127.130957,
+    "risk_level": "Low",
+    "station_risk_score": 0.0333333333333333
+  },
+  {
+    "station_name": "방이",
+    "호선": 5,
+    "위도": 37.508752,
+    "경도": 127.126054,
+    "risk_level": "Low",
+    "station_risk_score": 0.0283043630419051
+  },
+  {
+    "station_name": "개롱",
+    "호선": 5,
+    "위도": 37.498097,
+    "경도": 127.134817,
+    "risk_level": "Low",
+    "station_risk_score": 0.0034545494472431
+  },
+  {
+    "station_name": "거여",
+    "호선": 5,
+    "위도": 37.493208,
+    "경도": 127.143983,
+    "risk_level": "Low",
+    "station_risk_score": 0.0244528276133555
+  },
+  {
+    "station_name": "마천",
+    "호선": 5,
+    "위도": 37.494972,
+    "경도": 127.152784,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "강일",
+    "호선": 5,
+    "위도": 37.557521,
+    "경도": 127.176018,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "미사",
+    "호선": 5,
+    "위도": 37.56329,
+    "경도": 127.192954,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "하남풍산",
+    "호선": 5,
+    "위도": 37.552201,
+    "경도": 127.203897,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "하남시청",
+    "호선": 5,
+    "위도": 37.541723,
+    "경도": 127.206901,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "하남검단산",
+    "호선": 5,
+    "위도": 37.539729,
+    "경도": 127.223427,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "응암",
+    "호선": 6,
+    "위도": 37.59859,
+    "경도": 126.915583,
+    "risk_level": "Low",
+    "station_risk_score": 0.0666587763908367
+  },
+  {
+    "station_name": "역촌",
+    "호선": 6,
+    "위도": 37.60605,
+    "경도": 126.922764,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "독바위",
+    "호선": 6,
+    "위도": 37.618413,
+    "경도": 126.933035,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "구산",
+    "호선": 6,
+    "위도": 37.611223,
+    "경도": 126.917246,
+    "risk_level": "Low",
+    "station_risk_score": 0.0363636363636363
+  },
+  {
+    "station_name": "새절",
+    "호선": 6,
+    "위도": 37.591148,
+    "경도": 126.913613,
+    "risk_level": "Low",
+    "station_risk_score": 0.0515151515151515
+  },
+  {
+    "station_name": "증산",
+    "호선": 6,
+    "위도": 37.583989,
+    "경도": 126.909785,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "디지털미디어시티",
+    "호선": 6,
+    "위도": 37.577005,
+    "경도": 126.898643,
+    "risk_level": "Low",
+    "station_risk_score": 0.1069669754997343
+  },
+  {
+    "station_name": "월드컵경기장",
+    "호선": 6,
+    "위도": 37.569439,
+    "경도": 126.899077,
+    "risk_level": "Low",
+    "station_risk_score": 0.0230733042553937
+  },
+  {
+    "station_name": "마포구청",
+    "호선": 6,
+    "위도": 37.563535,
+    "경도": 126.903326,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1989774271654556
+  },
+  {
+    "station_name": "망원",
+    "호선": 6,
+    "위도": 37.556031,
+    "경도": 126.910129,
+    "risk_level": "Low",
+    "station_risk_score": 0.024398739944056
+  },
+  {
+    "station_name": "상수",
+    "호선": 6,
+    "위도": 37.547704,
+    "경도": 126.92292,
+    "risk_level": "Low",
+    "station_risk_score": 0.065965372928413
+  },
+  {
+    "station_name": "광흥창",
+    "호선": 6,
+    "위도": 37.547464,
+    "경도": 126.931971,
+    "risk_level": "Low",
+    "station_risk_score": 0.0830536720398378
+  },
+  {
+    "station_name": "대흥",
+    "호선": 6,
+    "위도": 37.547732,
+    "경도": 126.942214,
+    "risk_level": "Low",
+    "station_risk_score": 0.1202781067053241
+  },
+  {
+    "station_name": "효창공원앞",
+    "호선": 6,
+    "위도": 37.539279,
+    "경도": 126.961348,
+    "risk_level": "Low",
+    "station_risk_score": 0.0713416648887247
+  },
+  {
+    "station_name": "녹사평",
+    "호선": 6,
+    "위도": 37.53469,
+    "경도": 126.98665,
+    "risk_level": "Low",
+    "station_risk_score": 0.0333333333333333
+  },
+  {
+    "station_name": "이태원",
+    "호선": 6,
+    "위도": 37.534485,
+    "경도": 126.994369,
+    "risk_level": "Low",
+    "station_risk_score": 0.1062956656934221
+  },
+  {
+    "station_name": "한강진",
+    "호선": 6,
+    "위도": 37.53956,
+    "경도": 127.001729,
+    "risk_level": "Low",
+    "station_risk_score": 0.0247953570863493
+  },
+  {
+    "station_name": "버티고개",
+    "호선": 6,
+    "위도": 37.547933,
+    "경도": 127.006948,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "창신",
+    "호선": 6,
+    "위도": 37.579772,
+    "경도": 127.015246,
+    "risk_level": "Low",
+    "station_risk_score": 0.0515151515151515
+  },
+  {
+    "station_name": "보문",
+    "호선": 6,
+    "위도": 37.585293,
+    "경도": 127.019377,
+    "risk_level": "Low",
+    "station_risk_score": 0.0752776414091345
+  },
+  {
+    "station_name": "안암",
+    "호선": 6,
+    "위도": 37.586261,
+    "경도": 127.02903,
+    "risk_level": "Low",
+    "station_risk_score": 0.0098598519680903
+  },
+  {
+    "station_name": "고려대",
+    "호선": 6,
+    "위도": 37.59034,
+    "경도": 127.03626,
+    "risk_level": "Low",
+    "station_risk_score": 0.0838747165920285
+  },
+  {
+    "station_name": "월곡",
+    "호선": 6,
+    "위도": 37.60192,
+    "경도": 127.041492,
+    "risk_level": "Low",
+    "station_risk_score": 0.1429601446439032
+  },
+  {
+    "station_name": "상월곡",
+    "호선": 6,
+    "위도": 37.606392,
+    "경도": 127.048509,
+    "risk_level": "Low",
+    "station_risk_score": 0.0333333333333333
+  },
+  {
+    "station_name": "돌곶이",
+    "호선": 6,
+    "위도": 37.610522,
+    "경도": 127.056419,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "석계",
+    "호선": 6,
+    "위도": 37.614937,
+    "경도": 127.065922,
+    "risk_level": "Low",
+    "station_risk_score": 0.0657451484154848
+  },
+  {
+    "station_name": "태릉입구",
+    "호선": 6,
+    "위도": 37.617319,
+    "경도": 127.074741,
+    "risk_level": "Low",
+    "station_risk_score": 0.072716339492136
+  },
+  {
+    "station_name": "화랑대",
+    "호선": 6,
+    "위도": 37.619875,
+    "경도": 127.084106,
+    "risk_level": "Low",
+    "station_risk_score": 0.0359846030254849
+  },
+  {
+    "station_name": "봉화산",
+    "호선": 6,
+    "위도": 37.617293,
+    "경도": 127.091375,
+    "risk_level": "Low",
+    "station_risk_score": 0.0872151878571599
+  },
+  {
+    "station_name": "신내",
+    "호선": 6,
+    "위도": 37.612571,
+    "경도": 127.104326,
+    "risk_level": "Low",
+    "station_risk_score": 0.0515151515151515
+  },
+  {
+    "station_name": "장암",
+    "호선": 7,
+    "위도": 37.70015,
+    "경도": 127.053126,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "도봉산",
+    "호선": 7,
+    "위도": 37.689131,
+    "경도": 127.046548,
+    "risk_level": "Low",
+    "station_risk_score": 0.0333333333333333
+  },
+  {
+    "station_name": "수락산",
+    "호선": 7,
+    "위도": 37.677804,
+    "경도": 127.055314,
+    "risk_level": "Medium",
+    "station_risk_score": 0.2127232282171801
+  },
+  {
+    "station_name": "마들",
+    "호선": 7,
+    "위도": 37.664985,
+    "경도": 127.057701,
+    "risk_level": "Low",
+    "station_risk_score": 0.037713779776086
+  },
+  {
+    "station_name": "중계",
+    "호선": 7,
+    "위도": 37.645052,
+    "경도": 127.064084,
+    "risk_level": "Low",
+    "station_risk_score": 0.0412040178206511
+  },
+  {
+    "station_name": "하계",
+    "호선": 7,
+    "위도": 37.636363,
+    "경도": 127.067999,
+    "risk_level": "Low",
+    "station_risk_score": 0.1006661460526391
+  },
+  {
+    "station_name": "공릉",
+    "호선": 7,
+    "위도": 37.625642,
+    "경도": 127.072969,
+    "risk_level": "Low",
+    "station_risk_score": 0.0566404463550277
+  },
+  {
+    "station_name": "먹골",
+    "호선": 7,
+    "위도": 37.610638,
+    "경도": 127.077719,
+    "risk_level": "Low",
+    "station_risk_score": 0.0091793363493995
+  },
+  {
+    "station_name": "중화",
+    "호선": 7,
+    "위도": 37.602604,
+    "경도": 127.079254,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "상봉",
+    "호선": 7,
+    "위도": 37.595673,
+    "경도": 127.085708,
+    "risk_level": "Low",
+    "station_risk_score": 0.1534489761610068
+  },
+  {
+    "station_name": "면목",
+    "호선": 7,
+    "위도": 37.588671,
+    "경도": 127.087503,
+    "risk_level": "Low",
+    "station_risk_score": 0.0181818181818181
+  },
+  {
+    "station_name": "사가정",
+    "호선": 7,
+    "위도": 37.580912,
+    "경도": 127.088502,
+    "risk_level": "Low",
+    "station_risk_score": 0.0545454545454545
+  },
+  {
+    "station_name": "용마산",
+    "호선": 7,
+    "위도": 37.573752,
+    "경도": 127.086802,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "중곡",
+    "호선": 7,
+    "위도": 37.565877,
+    "경도": 127.084291,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "어린이대공원",
+    "호선": 7,
+    "위도": 37.547962,
+    "경도": 127.07465,
+    "risk_level": "Low",
+    "station_risk_score": 0.0593942262436783
+  },
+  {
+    "station_name": "뚝섬유원지",
+    "호선": 7,
+    "위도": 37.531558,
+    "경도": 127.066714,
+    "risk_level": "Low",
+    "station_risk_score": 0.0405618491462143
+  },
+  {
+    "station_name": "청담",
+    "호선": 7,
+    "위도": 37.519097,
+    "경도": 127.051851,
+    "risk_level": "Low",
+    "station_risk_score": 0.0467670778481715
+  },
+  {
+    "station_name": "강남구청",
+    "호선": 7,
+    "위도": 37.517185,
+    "경도": 127.04122,
+    "risk_level": "Low",
+    "station_risk_score": 0.0488319072643733
+  },
+  {
+    "station_name": "학동",
+    "호선": 7,
+    "위도": 37.514262,
+    "경도": 127.031738,
+    "risk_level": "Low",
+    "station_risk_score": 0.0046614200241285
+  },
+  {
+    "station_name": "논현",
+    "호선": 7,
+    "위도": 37.511108,
+    "경도": 127.021385,
+    "risk_level": "Low",
+    "station_risk_score": 0.1135486186974671
+  },
+  {
+    "station_name": "반포",
+    "호선": 7,
+    "위도": 37.508171,
+    "경도": 127.011717,
+    "risk_level": "Low",
+    "station_risk_score": 0.0290449917015695
+  },
+  {
+    "station_name": "내방",
+    "호선": 7,
+    "위도": 37.48764,
+    "경도": 126.993541,
+    "risk_level": "Low",
+    "station_risk_score": 0.0039706062390903
+  },
+  {
+    "station_name": "남성",
+    "호선": 7,
+    "위도": 37.484688,
+    "경도": 126.971108,
+    "risk_level": "Low",
+    "station_risk_score": 0.0037707346053353
+  },
+  {
+    "station_name": "숭실대입구",
+    "호선": 7,
+    "위도": 37.496258,
+    "경도": 126.953649,
+    "risk_level": "Low",
+    "station_risk_score": 0.0260345857182669
+  },
+  {
+    "station_name": "상도",
+    "호선": 7,
+    "위도": 37.50279,
+    "경도": 126.947949,
+    "risk_level": "Low",
+    "station_risk_score": 0.048784767783294
+  },
+  {
+    "station_name": "장승배기",
+    "호선": 7,
+    "위도": 37.504845,
+    "경도": 126.939025,
+    "risk_level": "Low",
+    "station_risk_score": 0.0867310892139511
+  },
+  {
+    "station_name": "신대방삼거리",
+    "호선": 7,
+    "위도": 37.499717,
+    "경도": 126.928218,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "보라매",
+    "호선": 7,
+    "위도": 37.499916,
+    "경도": 126.920112,
+    "risk_level": "Low",
+    "station_risk_score": 0.1076410642338114
+  },
+  {
+    "station_name": "신풍",
+    "호선": 7,
+    "위도": 37.500107,
+    "경도": 126.909806,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "남구로",
+    "호선": 7,
+    "위도": 37.486181,
+    "경도": 126.887372,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "가산디지털단지",
+    "호선": 7,
+    "위도": 37.480376,
+    "경도": 126.882704,
+    "risk_level": "High",
+    "station_risk_score": 0.3287347862091024
+  },
+  {
+    "station_name": "철산",
+    "호선": 7,
+    "위도": 37.47616,
+    "경도": 126.868217,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "광명사거리",
+    "호선": 7,
+    "위도": 37.47927,
+    "경도": 126.854854,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "천왕",
+    "호선": 7,
+    "위도": 37.486699,
+    "경도": 126.838684,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "온수",
+    "호선": 7,
+    "위도": 37.492059,
+    "경도": 126.823294,
+    "risk_level": "Low",
+    "station_risk_score": 0.0333333333333333
+  },
+  {
+    "station_name": "암사",
+    "호선": 8,
+    "위도": 37.550127,
+    "경도": 127.127521,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "강동구청",
+    "호선": 8,
+    "위도": 37.530348,
+    "경도": 127.120461,
+    "risk_level": "Low",
+    "station_risk_score": 0.0430329613450292
+  },
+  {
+    "station_name": "몽촌토성",
+    "호선": 8,
+    "위도": 37.517692,
+    "경도": 127.11274,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1728486961504131
+  },
+  {
+    "station_name": "석촌",
+    "호선": 8,
+    "위도": 37.505396,
+    "경도": 127.106995,
+    "risk_level": "Low",
+    "station_risk_score": 0.1293376067277839
+  },
+  {
+    "station_name": "송파",
+    "호선": 8,
+    "위도": 37.49978,
+    "경도": 127.11212,
+    "risk_level": "Low",
+    "station_risk_score": 0.0200331775328424
+  },
+  {
+    "station_name": "문정",
+    "호선": 8,
+    "위도": 37.485931,
+    "경도": 127.122473,
+    "risk_level": "Medium",
+    "station_risk_score": 0.1612025439745273
+  },
+  {
+    "station_name": "장지",
+    "호선": 8,
+    "위도": 37.478609,
+    "경도": 127.126229,
+    "risk_level": "Low",
+    "station_risk_score": 0.1204181253760087
+  },
+  {
+    "station_name": "복정",
+    "호선": 8,
+    "위도": 37.471016,
+    "경도": 127.126746,
+    "risk_level": "Low",
+    "station_risk_score": 0.1448505894410774
+  },
+  {
+    "station_name": "남위례",
+    "호선": 8,
+    "위도": 37.462839,
+    "경도": 127.139047,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "산성",
+    "호선": 8,
+    "위도": 37.456886,
+    "경도": 127.149927,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "남한산성입구",
+    "호선": 8,
+    "위도": 37.451568,
+    "경도": 127.159845,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "단대오거리",
+    "호선": 8,
+    "위도": 37.445057,
+    "경도": 127.156735,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "신흥",
+    "호선": 8,
+    "위도": 37.440952,
+    "경도": 127.14759,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "수진",
+    "호선": 8,
+    "위도": 37.437575,
+    "경도": 127.140936,
+    "risk_level": "Low",
+    "station_risk_score": 0.0
+  },
+  {
+    "station_name": "모란",
+    "호선": 8,
+    "위도": 37.433888,
+    "경도": 127.129921,
+    "risk_level": "Low",
+    "station_risk_score": 0.0333333333333333
+  }
+]
